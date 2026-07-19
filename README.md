@@ -23,6 +23,11 @@ It uses a math formula which assumes that your investment follows normal distrib
 ### 3. Monte Carlo Simulation
 It creates as many fake scenarios as required matching the real data's pattern and then work on that fake data to find out the worst of the 5%, it takes time and is heavier on computer but works better in complex situations.
 
+   ## How to Use
+   1. Install: pip install pandas numpy scipy
+   2. Run: python var_calculator.py
+   3. Output: [show example output here]
+
 ## Key Takeaway
 
 One can try different methods and can decide which work the best on which data. You get different answers thus it is important to know what to use and when. 
